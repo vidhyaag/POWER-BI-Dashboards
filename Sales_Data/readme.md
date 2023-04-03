@@ -1,4 +1,4 @@
-Here is an example of a readme.md file for a Power BI dashboard that displays dress sales data with locations, selling price, and cost price:
+
 
 # Dress Sales Dashboard
 
